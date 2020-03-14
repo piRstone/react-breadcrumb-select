@@ -1,0 +1,170 @@
+[
+  {
+    "id": 4,
+    "name": "Building",
+    "parent": null,
+    "children": [
+      {
+        "id": 7,
+        "name": "Associations",
+        "parent": 4,
+        "children": [
+          {
+            "id": 8,
+            "name": "Cultural center",
+            "parent": 7,
+            "children": []
+          },
+          {
+            "id": 9,
+            "name": "City hall",
+            "parent": 7,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Academic",
+        "parent": 4,
+        "children": [
+          {
+            "id": 44,
+            "name": "School",
+            "parent": 43,
+            "children": [
+              {
+                "id": 48,
+                "name": "Common area",
+                "parent": 44,
+                "children": []
+              },
+              {
+                "id": 49,
+                "name": "School restaurant",
+                "parent": 44,
+                "children": []
+              },
+              {
+                "id": 47,
+                "name": "Classroom",
+                "parent": 44,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": 45,
+            "name": "Post-school",
+            "parent": 43,
+            "children": []
+          },
+          {
+            "id": 46,
+            "name": "Early childhood",
+            "parent": 43,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Sports",
+        "parent": 4,
+        "children": [
+          {
+            "id": 12,
+            "name": "Municipal pool",
+            "parent": 11,
+            "children": []
+          },
+          {
+            "id": 13,
+            "name": "Sport field",
+            "parent": 11,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Green parks",
+    "parent": null,
+    "children": [
+      {
+        "id": 50,
+        "name": "Parks",
+        "parent": 5,
+        "children": [
+          {
+            "id": 52,
+            "name": "Open park",
+            "parent": 50,
+            "children": []
+          },
+          {
+            "id": 53,
+            "name": "Secure park",
+            "parent": 50,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Roadway",
+    "parent": null,
+    "children": [
+      {
+        "id": 54,
+        "name": "Urban agglomeration",
+        "parent": 6,
+        "children": [
+          {
+            "id": 55,
+            "name": "City",
+            "parent": 54,
+            "children": [
+              {
+                "id": 56,
+                "name": "Neighbourhood",
+                "parent": 55,
+                "children": [
+                  {
+                    "id": 57,
+                    "name": "Allotment",
+                    "parent": 56,
+                    "children": [
+                      {
+                        "id": 59,
+                        "name": "Boulevard",
+                        "parent": 57,
+                        "children": []
+                      },
+                      {
+                        "id": 60,
+                        "name": "Square",
+                        "parent": 57,
+                        "children": []
+                      },
+                      {
+                        "id": 58,
+                        "name": "Street",
+                        "parent": 57,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+# IDE Folders
+**/.*/
+
+.grunt
+
+build/Release
+
+node_modules
+
+dist/
