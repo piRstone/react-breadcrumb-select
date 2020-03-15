@@ -1,12 +1,16 @@
 # react-breadcrum-select
 
-A select input for tree shaped data.
+A select input for tree shaped data.[Demo](https://pirstone.github.io/react-breadcrumb-select/)
 
 ### Install
 
 ```
 npm install --save react-breadcrumb-select
 ```
+
+### Example
+
+You can take a look at the component on [the example page](https://pirstone.github.io/react-breadcrumb-select/).
 
 ### Quick start
 
@@ -120,7 +124,7 @@ Array of ids to disable. Elements will appear but with a disabled state.
 PropTypes.shape({
   id: PropTypes.number,
   name: PropTypes.string,
-  parent: PropTypes.number,
-  children: PropTypes.arrayOf(PropTypes.object) // or null
+  parent: PropTypes.number, // or null
+  children: PropTypes.arrayOf(PropTypes.object)
 })
 ```
