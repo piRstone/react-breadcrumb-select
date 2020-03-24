@@ -1,6 +1,6 @@
 # react-breadcrum-select
 
-A select input for tree shaped data.[Demo](https://pirstone.github.io/react-breadcrumb-select/)
+A select input for tree shaped data.
 
 ### Install
 
